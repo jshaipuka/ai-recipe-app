@@ -29,3 +29,13 @@ flask run
 
 Browse to the API at `http://localhost:5000` in a web browser.
 
+### Running the UI locally
+
+```bash
+cd ui
+```
+
+```bash
+npm install
+npm start
+```
